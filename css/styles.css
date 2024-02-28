@@ -129,12 +129,11 @@ address {
 }
 
 .team-foto {
-  width: 264px;
-  height: 260px;
+
 }
 
 .team-text {
-  text-align: center;
+
   color: #434455;
   font-style: normal;
 }
@@ -146,18 +145,22 @@ address {
 }
 
 .portfolio-card {
-  width: 360px;
-  height: 420px;
+
 }
 
 .portfolio-foto {
   width: 360px;
-  height: 300px;
+  
 }
 
 .foto-header {
   color: #2e2f42;
-  text-align: left;
+}
+.foto-text{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* Footer */
@@ -177,6 +180,5 @@ footer {
 }
 
 .footer-text {
-  width: 264px;
-  height: 72px;
+
 }
