@@ -115,7 +115,7 @@ address {
 /* Advantages  */
 
 .adv-card {
-  width: 264px;
+
 }
 
 /* Team */
@@ -125,9 +125,6 @@ address {
 }
 
 .team-card {
-  width: 264px;
-  height: 380px;
-  align-items: center;
   background: #fff;
 }
 
