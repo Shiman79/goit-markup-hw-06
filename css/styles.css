@@ -42,21 +42,15 @@ header {
 }
 
 .logo {
-  font-family: Raleway, sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #2e2f42;
-}
-
-.logo-accent {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.logo-accent {
   color: #4d5ae5;
 }
 
@@ -74,6 +68,18 @@ address {
 
 .header-link:hover,
 .header-link:focus {
+  color: #404bbf;
+}
+
+.adr-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.adr-link:hover,
+.adr-link:focus {
   color: #404bbf;
 }
 
