@@ -274,7 +274,10 @@ footer {
   color: #f4f4fd;
   padding: 100px 0;
 }
-
+.second-logo {
+  display: inline-block;
+  margin-bottom: 16px;
+}
 .footer-logo {
   color: #f4f4fd;
 }
@@ -282,5 +285,4 @@ footer {
 .footer-text {
   color: #f4f4fd;
   max-width: 264px;
-  margin-top: 16px;
 }
