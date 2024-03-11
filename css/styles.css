@@ -161,6 +161,7 @@ img {
   color: #fff;
   background-color: #4d5ae5;
   min-width: 169px;
+  height: 56px;
   display: block;
   margin: 0 auto;
   border: none;
@@ -197,7 +198,7 @@ img {
   width: calc((100% - (24px * 3)) / 4);
 }
 .adv-header {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 /* Team */
@@ -225,7 +226,10 @@ img {
   margin-bottom: 8px;
 }
 .team-card-cont {
-  padding: 32px 16px;
+  padding: 32px 0;
+}
+.team-sec-header {
+  margin-bottom: 72px;
 }
 
 .team-text {
@@ -238,7 +242,7 @@ img {
 
 .portfolio {
   background-color: #fff;
-  padding: 120px;
+  padding: 120px 0 120px 0;
 }
 .portfolio-sec-header {
   margin-bottom: 72px;
